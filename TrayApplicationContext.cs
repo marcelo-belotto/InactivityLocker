@@ -52,7 +52,7 @@ namespace InactivityLocker
 
         private void OnInactivityTimeout(object sender, EventArgs e)
         {
-            KeyboardSimulator.PressWinL();
+            LockSession.Lock();
             // Não reinicia o monitor aqui — o SessionSwitch cuidará disso ao desbloquear
         }
 
