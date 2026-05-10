@@ -30,8 +30,6 @@ Usuário inativo por N minutos
         ↓
 InactivityLocker detecta (sem mouse, sem teclado)
         ↓
-Win + L é acionado automaticamente
-        ↓
 Sessão bloqueada 🔒
         ↓
 Ao desbloquear, contagem é reiniciada do zero
@@ -106,7 +104,7 @@ InactivityLocker/
 ├── TrayApplicationContext.cs   # Contexto da aplicação + ícone da bandeja
 ├── InactivityMonitor.cs        # Timer de inatividade
 ├── GlobalHookManager.cs        # Hooks globais de teclado e mouse (WinAPI)
-├── KeyboardSimulator.cs        # Simula Win+L para bloquear a sessão
+├── LockSession.cs              # Realiza o bloqueio da sessão
 ├── IntervalConfigForm.cs       # Formulário de configuração do intervalo
 └── assets/
     ├── logo.png
