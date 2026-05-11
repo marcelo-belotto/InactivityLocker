@@ -17,7 +17,7 @@
 
 ## ✨ O que é?
 
-**InactivityLocker** é uma aplicação Windows que roda silenciosamente na bandeja do sistema e **bloqueia a sessão automaticamente** após um período de inatividade configurável. Ideal para ambientes corporativos ou qualquer situação onde segurança e privacidade importam. Sem a necessidade de solici
+**InactivityLocker** é uma aplicação Windows que roda silenciosamente na bandeja do sistema e **bloqueia a sessão automaticamente** após um período de inatividade configurável. Ideal para ambientes corporativos ou qualquer situação onde segurança e privacidade importam.
 
 Sem janelas abertas, sem distrações — apenas proteção em segundo plano.
 
